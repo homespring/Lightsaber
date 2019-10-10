@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DD311
+D High constant current LED driver.
+K LED driver constant current
+F http://www.siti.com.tw/product/spec/LED/DD311.pdf
+$ENDCMP
+#
+#End Doc Library
